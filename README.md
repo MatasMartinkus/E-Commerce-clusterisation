@@ -1,102 +1,106 @@
+Collecting workspace informationFiltering to most relevant information# Rewriting the README to Showcase Results
+
+Here's an improved README.md that highlights the project's visualizations and results:
+
+```markdown
 # E-Commerce Product Clustering
 
 A comprehensive framework for automatically clustering e-commerce products using various machine learning approaches. This project implements and compares multiple clustering techniques to provide optimized product categorization for e-commerce applications.
 
-## Table of Contents
+![Best Methods Radar Chart](evaluation/charts/best_methods_radar.png)
 
-- Overview
-- Features
-- Requirements
-- Installation
-- Usage
-- Methods Available
-- Evaluation
-- Project Structure
-- Results
+## Table of Contents
+- [Overview](#overview)
+- [Key Results](#key-results)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Methods Available](#methods-available)
+- [Evaluation](#evaluation)
+- [Project Structure](#project-structure)
+- [Detailed Results](#detailed-results)
 
 ## Overview
 
-This project provides tools to automatically cluster e-commerce product listings based on their titles, descriptions, prices, and other features. It implements both traditional (TF-IDF based) and modern transformer-based approaches to generate meaningful product groups that can be used for catalog organization, pricing strategy, or recommendation systems.
+This project provides a comprehensive solution for clustering e-commerce products using various machine learning techniques. By leveraging both traditional and transformer-based approaches, it helps organize product catalogs automatically based on product descriptions, prices, and seller information.
+
+## Key Results
+
+After evaluating 7 different clustering methods, we found:
+
+### Method Ranking
+1. **traditional_agglomerative** (traditional): 17.85 points
+2. **kmeans** (traditional): 16.06 points
+3. **traditional_hdbscan** (density-based): 12.58 points
+4. **transformer** (transformer-based): 9.18 points
+5. **transformer_agglomerative** (transformer-based): 9.16 points
+6. **transformer_kmeans** (transformer-based): 6.89 points
+7. **bertopic** (topic-based): 5.62 points
+
+![Number of Clusters Comparison](evaluation/charts/num_clusters_comparison.png)
 
 ## Features
 
-- Multiple clustering algorithms including K-Means, Hierarchical Agglomerative, HDBSCAN, and BERTopic
-- Support for both traditional text features (TF-IDF) and modern transformer embeddings
-- Comprehensive evaluation framework with business-relevant metrics
-- Visualization tools for cluster analysis
-- Parameter optimization for each method
-- Support for multilingual product data
+- Multiple clustering methodologies (traditional, transformer-based, density-based)
+- Comprehensive evaluation framework with internal and external metrics
+- Business-oriented metrics (price homogeneity, seller concentration)
+- Visual result comparisons
+- Optimized for e-commerce product datasets
 
 ## Requirements
 
-- Python 3.9+
-- pandas
-- numpy
+- Python 3.8+
+- PyTorch
 - scikit-learn
-- matplotlib
-- seaborn
-- sentence-transformers
-- umap-learn
-- hdbscan
-- bertopic
-- tqdm
+- Transformers
+- HDBSCAN
+- BERTopic
+- Pandas
+- NumPy
+- Matplotlib
 
 ## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MatasMartinkus/E-Commerce-clusterisation.git
-   cd E-Commerce-clusterisation
-   ```
+```bash
+# Clone the repository
+git clone https://github.com/your-username/E-Commerce-clusterisation.git
+cd E-Commerce-clusterisation
 
-2. Create and activate a virtual environment:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
+# Create a virtual environment
+python -m venv fresh
 
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+# Activate the environment
+# On Windows
+fresh\\Scripts\\activate
+# On Unix or MacOS
+source fresh/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
 
 ## Usage
 
-### 1. Prepare your data
-
-Your dataset should be a CSV file with at least these columns:
-- `title`: Product title/name
-- `description`: Product description
-- `price`: Product price (numeric)
-- `subcategory` (optional): Existing product category for evaluation
-- `seller`: Seller identifier
-
-### 2. Run individual clustering methods
+### Running a Specific Clustering Method
 
 ```bash
-# Run traditional K-means clustering
+# For traditional K-means clustering
 python Kmeans_fast.py
 
-# Run transformer-based clustering
+# For transformer-based clustering
 python Transformer_KMeans.py
-
-# Run hierarchical clustering
-python Traditional_agglomerative.py
-
-# Run density-based clustering
-python Traditional_hdbscan.py
-
-# Run BERTopic
-python Bertopic.py
 ```
 
-### 3. Evaluate all methods
+### Running Evaluation
 
 ```bash
-python evaluation.py
-```
+# Generate full evaluation report
+python evaluation.py --generate-report
 
-This will generate comprehensive evaluation reports and visualizations in the evaluation directory.
+# Compare specific methods
+python evaluation.py --methods traditional_agglomerative transformer_kmeans
+```
 
 ## Methods Available
 
@@ -116,6 +120,8 @@ The project includes the following clustering approaches:
 ### Topic-based Methods
 - **BERTopic**: Topic modeling approach that combines transformers with clustering
 
+![Silhouette Score Comparison](evaluation/charts/silhouette_comparison.png)
+
 ## Evaluation
 
 The evaluation framework measures:
@@ -128,6 +134,8 @@ Run the evaluation with:
 ```bash
 python evaluation.py --generate-report
 ```
+
+![External Metrics Comparison](evaluation/charts/external_metrics_comparison.png)
 
 ## Project Structure
 
@@ -144,19 +152,45 @@ python evaluation.py --generate-report
 │   ├── kmeans/                   # K-means results
 │   ├── transformer/              # Transformer results
 │   └── evaluation/               # Evaluation outputs
-├── charts/                       # Generated visualizations
+├── evaluation/                   # Evaluation results
+│   ├── charts/                   # Generated visualizations
+│   ├── comparisons/              # Method comparison tables
+│   ├── metrics/                  # Detailed metric reports
+│   └── reports/                  # Comprehensive evaluation reports
 └── requirements.txt              # Project dependencies
 ```
 
-## Results
+## Detailed Results
 
-Our evaluation of 7 different clustering methods on e-commerce data showed:
+### Best Performing Method: traditional_agglomerative
 
-1. **Best Overall Method**: Traditional Agglomerative clustering provides the best balance of cluster quality and business alignment with a silhouette score of 0.34 and subcategory NMI of 0.58. 
+Our evaluation found that traditional_agglomerative provides the best balance of cluster quality and alignment with product categories:
 
-2. **Method Recommendations**:
-   - Use traditional_agglomerative for production clustering
-   - Use transformer-based methods when semantic understanding is crucial
-   - Use density-based methods (HDBSCAN) for identifying outlier products
+- **Silhouette score**: 0.3448
+- **Subcategory NMI**: 0.5824
+- **Number of clusters**: 270
+- **Top seller concentration**: 0.8086
+- **Price homogeneity**: 0.6892
 
-For detailed results, see the complete evaluation in reports.
+![Cluster Size Distribution](evaluation/charts/cluster_size_distribution.png)
+
+### Recommendations
+
+Based on the evaluation results, we recommend:
+
+1. **Use traditional_agglomerative for production clustering** - Best overall performance
+2. **Use transformer when semantic understanding is critical** - Better understanding of relationships
+3. **Use traditional_agglomerative for large datasets** - More efficient and scalable
+4. **Use traditional_hdbscan for identifying outlier products** - Better at finding unusual items
+5. **Use bertopic when interpretable clusters are needed** - Provides representative keywords
+
+![Category Comparison Radar](evaluation/charts/radar_comparison_by_category.png)
+
+### Specific Use Cases
+
+- **For automatic catalog organization**: traditional_agglomerative
+- **For matching existing categories**: transformer (highest subcategory alignment)
+- **For pricing strategy development**: traditional_agglomerative (most homogeneous price clusters)
+- **For seller-based analysis**: traditional_agglomerative (highest seller concentration in clusters)
+
+For more detailed analysis, see the full evaluation report.
