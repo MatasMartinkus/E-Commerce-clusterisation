@@ -1,8 +1,3 @@
-Collecting workspace informationFiltering to most relevant information# Rewriting the README to Showcase Results
-
-Here's an improved README.md that highlights the project's visualizations and results:
-
-```markdown
 # E-Commerce Product Clustering
 
 A comprehensive framework for automatically clustering e-commerce products using various machine learning approaches. This project implements and compares multiple clustering techniques to provide optimized product categorization for e-commerce applications.
