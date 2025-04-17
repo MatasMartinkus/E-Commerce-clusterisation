@@ -59,7 +59,7 @@ After evaluating 7 different clustering methods, we found:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/E-Commerce-clusterisation.git
+git clone https://github.com/MatasMartinkus/E-Commerce-clusterisation.git
 cd E-Commerce-clusterisation
 
 # Create a virtual environment
