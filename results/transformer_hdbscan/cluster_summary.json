@@ -1,0 +1,2003 @@
+{
+  "0": {
+    "size": 110,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Minkštasuoliai": 23,
+      "Miegamojo komodos": 21,
+      "Indaujos": 19,
+      "Miegamojo komplektai": 15,
+      "Miegamojo spintos": 10
+    },
+    "top_sellers": {
+      "Taranko Meble": 108,
+      "Unknown": 1,
+      "Satake Cutlery Mfg": 1
+    },
+    "price_range": {
+      "min": 45.0,
+      "mean": 1282.9354545454546,
+      "max": 7380.8
+    },
+    "sample_products": [
+      "KanJam žaidimo komplektas šviečiantis 6 spalvomis",
+      "Taranko Meble Lova NICEA 3 160",
+      "Taranko Meble Lova NICEA 2 140 TARANKO Audinys A",
+      "Taranko Meble Lova NICEA 4 160",
+      "Taranko Meble Lova WERSAL F-160 TARANKO - Beicuoto medžio spalva"
+    ]
+  },
+  "1": {
+    "size": 80,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Stogo skersiniai, bagažinės": 80
+    },
+    "top_sellers": {
+      "Aristar": 80
+    },
+    "price_range": {
+      "min": 31.0,
+      "mean": 38.05,
+      "max": 47.0
+    },
+    "sample_products": [
+      "Aristar Bagažinės kilimėlis Volkswagen Polo Hatchback nuo 2017m. (vieno lygio bagažinė)",
+      "Aristar Bagažinės kilimėlis Ssangyong Rexton nuo 2017m. (5 vietų apatinė dalis / vieno lygio bagažinė)",
+      "Aristar Bagažinės kilimėlis Seat Arona nuo 2016m. (vieno lygio bagažinė)",
+      "Aristar Bagažinės kilimėlis Peugeot 2008 nuo 2020m. (apatinė dalis / vieno lygio bagažinė)",
+      "Aristar Bagažinės kilimėlis Mazda MX-30 (electric) nuo 2020m. (vieno lygio bagažinė)"
+    ]
+  },
+  "2": {
+    "size": 57,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Stetofonendoskopai": 55,
+      "Kita medicininė technika": 2
+    },
+    "top_sellers": {
+      "3M Jav": 51,
+      "Little Doctor Europe": 6
+    },
+    "price_range": {
+      "min": 15.25,
+      "mean": 224.06754385964913,
+      "max": 490.12
+    },
+    "sample_products": [
+      "Little Doctor Europe LD standartinis stetoskopas Prof-I",
+      "3M Jav Littmann Classic III, 5621, pilkas stetoskopas",
+      "3M Jav Littmann Lightweight II, 2456, perlų rožinis stetoskopas",
+      "3M Jav Littmann Classic II, INFANT 2157, specilios laidos vaivorykštės spalvų stetoskopas naujagimiams",
+      "3M Jav Littmann Cardiology IV SPECIAL EDITION Juodas FINISH, 6203 stetoskopas"
+    ]
+  },
+  "3": {
+    "size": 87,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Suknelės, sijonai mergaitėms": 68,
+      "Kelnės vaikams": 18,
+      "Aksesuarai vaikams": 1
+    },
+    "top_sellers": {
+      "vidaXL": 84,
+      "Unknown": 2,
+      "Partypal": 1
+    },
+    "price_range": {
+      "min": 9.09,
+      "mean": 12.191494252873564,
+      "max": 25.9
+    },
+    "sample_products": [
+      "Stilingi džinsai su pašiltinimu, mėlynos spalvos",
+      "Vaikiškos kelnės, šviesios džinso mėlynos spalvos, 104 dydžio",
+      "Vaikiškos kelnės, ekru spalvos, 92 dydžio",
+      "Vaikiškos kelnės, smėlio spalvos, velvetas, 92 dydžio",
+      "Vaikiškos sportinės kelnės, mėlynos spalvos mišinys, 92 dydžio"
+    ]
+  },
+  "4": {
+    "size": 61,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Planšetės": 51,
+      "Mobilieji telefonai": 9,
+      "Automobiliniai telefonų krovikliai": 1
+    },
+    "top_sellers": {
+      "Apple": 61
+    },
+    "price_range": {
+      "min": 7.99,
+      "mean": 1008.0821311475408,
+      "max": 2098.35
+    },
+    "sample_products": [
+      "Apple iPhone 13 128GB Starlight",
+      "Apple iPhone 14 128GB Starlight",
+      "Apple iPhone 13 256GB Midnight",
+      "Apple iPhone 13 128GB Midnight",
+      "iPhone 11 64GB White"
+    ]
+  },
+  "5": {
+    "size": 69,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Deflektoriai": 69
+    },
+    "top_sellers": {
+      "Team Heko": 64,
+      "Heko": 5
+    },
+    "price_range": {
+      "min": 28.0,
+      "mean": 46.89565217391305,
+      "max": 69.03
+    },
+    "sample_products": [
+      "Vėjo deflektorius Heko (2 vnt.) Priekinis",
+      "Vėjo deflektorius Heko 25369 5D, priekinis, 2 vnt.",
+      "Vėjo deflektorius Heko (2 vnt.) Priekinis",
+      "Vėjo deflektorius Heko 28232 5D, priekinis, galinis, 4 vnt.",
+      "Vėjo deflektorius Heko 25344 3D, priekinis, 2 vnt."
+    ]
+  },
+  "6": {
+    "size": 60,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Terasinė mediena": 28,
+      "Termo mediena": 22,
+      "Įvairūs medienos gaminiai": 8,
+      "Mišiniai": 2
+    },
+    "top_sellers": {
+      "Medžio Bitės": 58,
+      "Unknown": 2
+    },
+    "price_range": {
+      "min": 4.79,
+      "mean": 19.934166666666666,
+      "max": 64.85
+    },
+    "sample_products": [
+      "Fugalite Bio Parquet Fagus 58, 3kg (A+B) epoksidinis glaistas medžio imitacijos plytelėms",
+      "Fugalite Bio Parquet tectona 64, 3kg (A+B) epoksidinis glaistas medžio imitacijos plytelėms",
+      "Medžio Bitės Terasinė lenta ROYAL pilka 28x120x4200",
+      "Medžio Bitės Terasinė lenta ROYAL ruda 28x120x4200",
+      "Medžio Bitės Kalibruota impregnuota graduota C24 mediena 45x70x3600"
+    ]
+  },
+  "7": {
+    "size": 105,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Magnetukai": 44,
+      "Magnetiniai žaislai": 40,
+      "Virtuviniai peiliai": 5,
+      "Kenkėjų kontrolė": 3,
+      "Apsaugos nuo vabzdžių": 2
+    },
+    "top_sellers": {
+      "Unknown": 29,
+      "Lo Scarabeo": 11,
+      "Woopie": 6
+    },
+    "price_range": {
+      "min": 1.59,
+      "mean": 16.62895238095238,
+      "max": 117.99
+    },
+    "sample_products": [
+      "Tellur FMT-B6 magnetic holder Juodas",
+      "Neodimio magnetas su lipniu sluoksniu 20x10x1mm - 10vnt",
+      "Neodimio magnetas apvalus 3x1mm N38 10vnt",
+      "Esselte Magnetų rinkinys Nobo stiklinėms magnetinėms lentoms 32mm 10vnt.",
+      "Kruzzel Šaldytuvo magnetai - gyvūnai 40 vnt 22616"
+    ]
+  },
+  "8": {
+    "size": 83,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Dronai": 71,
+      "Dronų priedai ir dalys": 12
+    },
+    "top_sellers": {
+      "DJI": 58,
+      "Unknown": 11,
+      "Extralink": 5
+    },
+    "price_range": {
+      "min": 8.99,
+      "mean": 917.9526506024096,
+      "max": 6589.99
+    },
+    "sample_products": [
+      "Dronas DJI Neo Drone Fly More Combo",
+      "Dronas DJI Neo (be nuotolinio valdymo pulto)",
+      "DJI Mini 4 Pro Fly More Combo ( DJI RC 2 ) dronas",
+      "Dronas su valdikliu DJI Air 3S DJI RC-N3",
+      "Dronas DJI Mini 3 Consumer su DJI RC, Baltos spalvos"
+    ]
+  },
+  "9": {
+    "size": 158,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Figūrėlės": 157,
+      "Konstruktoriai": 1
+    },
+    "top_sellers": {
+      "Funko": 116,
+      "Bandai": 38,
+      "Minix": 2
+    },
+    "price_range": {
+      "min": 8.99,
+      "mean": 24.159810126582272,
+      "max": 87.72
+    },
+    "sample_products": [
+      "Figūrėlė Funko POP! Saint Seiya Dragon Shiryu",
+      "Figūrėlė Funko POP! Saint Seiya Dragon Shiryu",
+      "FUNKO POP! Vinilinė figūrėlė: Tokyo Ghoul - Haise Sasaki, 9,5 cm",
+      "FUNKO POP! Vinilinė figūrėlė: Tokyo Ghoul - Kuki Urie, 9,5 cm",
+      "FUNKO POP! Vinilinė figūrėlė: Tokyo Ghoul - Saiko Yonebayashi, 9,5 cm"
+    ]
+  },
+  "10": {
+    "size": 76,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Išoriniai kietieji diskai": 76
+    },
+    "top_sellers": {
+      "SanDisk": 25,
+      "Western Digital": 17,
+      "ADATA": 11
+    },
+    "price_range": {
+      "min": 31.99,
+      "mean": 154.6163157894737,
+      "max": 519.99
+    },
+    "sample_products": [
+      "Išorinis kietasis diskas Intenso MemoryCase 2.5'' 500GB, Juoda",
+      "Kietasis SSD diskas Samsung T9 USB 3.2 Gen 2x2, 1TB",
+      "Išorinis kietasis diskas SanDisk Extreme Portable 2 TB, SDSSDE61-2T00-G25, Juodas",
+      "Išorinis kietasis diskas Western Digital Elements HDD 1TB USB3, Juodas",
+      "Išorinis kietasis diskas SanDisk Extreme PRO 1TB SSD, Juodos/Oranžinės spalvos"
+    ]
+  },
+  "11": {
+    "size": 56,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "SD kortelės": 45,
+      "Diktofonai": 8,
+      "Mobilieji telefonai": 2,
+      "Planšetės": 1
+    },
+    "top_sellers": {
+      "SanDisk": 21,
+      "Samsung": 19,
+      "Unknown": 8
+    },
+    "price_range": {
+      "min": 8.24,
+      "mean": 101.96696428571428,
+      "max": 1454.25
+    },
+    "sample_products": [
+      "Samsung Galaxy S25 5G / 12 GB RAM /256 GB ROM, Navy",
+      "Samsung Galaxy S25 Ultra 5G / 12 GB RAM /512 GB ROM, Titanium Silverblue",
+      "Planšetė Galaxy Tab S9 FE+ 12.4\" Wi-Fi 8GB RAM, 128GB.",
+      "Atminties kortelė SanDisk SDXC 128GB Extreme Pro 200/90 MB/s V30 UHS-I U3",
+      "Atminties kortelė SanDisk Extreme PRO SDXC UHS-I, 256GB, SDSDXXD-256G-GN4IN"
+    ]
+  },
+  "12": {
+    "size": 83,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Skalbimo mašinos": 45,
+      "Rankšluosčių džiovintuvai, gyvatukai, kopėtėlės": 35,
+      "Sulankstomos džiovyklos": 2,
+      "Dviračių kompiuteriai ir jų priedai": 1
+    },
+    "top_sellers": {
+      "Navin": 25,
+      "Bosch": 10,
+      "Electrolux": 9
+    },
+    "price_range": {
+      "min": 33.0,
+      "mean": 369.02963855421683,
+      "max": 1149.0
+    },
+    "sample_products": [
+      "Vandeninis rankšluosčių džiovintuvas-kopetėlės Elonika, plieno, EP 50x86 KLD baltas",
+      "Elektrinis rankšluosčių džiovintuvas Zehnder Aura 200 W, PBECZ-090-50/MQ",
+      "El.rankšluosčių džiovintuvas Navin Kamelia 480*800 Sensor su laikmačiu kairė nerūd.plienas 10-007133-4880",
+      "El.rankšluosčių džiovintuvas Navin Largo 500*800 Sensor kairė juodas",
+      "El.rankšluosčių džiovintuvas Navin Elipse 500*800 Sensor kairė juodas 12-245153-5080"
+    ]
+  },
+  "13": {
+    "size": 67,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Skėčiai nuo saulės": 38,
+      "Svetainės spintelės": 15,
+      "Kiti miegamojo baldai": 5,
+      "Lipdukai": 2,
+      "Gultai": 2
+    },
+    "top_sellers": {
+      "Nenurodyta": 32,
+      "Home Decor": 20,
+      "vidaXL": 6
+    },
+    "price_range": {
+      "min": 4.28,
+      "mean": 187.4282089552239,
+      "max": 986.44
+    },
+    "sample_products": [
+      "4M Tamsoje šviečianti 3D Saulės sistema",
+      "4M Tamsoje šviečiantis 3D Saulės sistemos modelio kūrimo rinkinys",
+      "4M Tamsoje šviečianti 3D Saulės sistema",
+      "Saulės energija palaikomas rinkinys laistymui Gardena „AquaBloom“ 13300-20, 967999001",
+      "Nature Ultragarsinis kurmių repelentas, saulės energija"
+    ]
+  },
+  "14": {
+    "size": 66,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Komplektai vaikams": 24,
+      "Sportinė apranga": 21,
+      "Kelnės vaikams": 5,
+      "Striukės vaikams": 5,
+      "Marškinėliai": 4
+    },
+    "top_sellers": {
+      "Adidas": 48,
+      "Nike": 16,
+      "ESSENTIALS": 1
+    },
+    "price_range": {
+      "min": 13.0,
+      "mean": 50.3519696969697,
+      "max": 124.55
+    },
+    "sample_products": [
+      "Greičio kriaušė Adidas, odinė - 15 x 23 cm",
+      "Durų staktos skersinis prisitraukimams Adidas",
+      "Atsispaudimų rankenos Adidas",
+      "Adidas ADAC-11405 putplasčio treniruotė Volelis (Numatytasis-N/A)",
+      "Greičio šokdynė reguliuojamo ilgio su guoliais Adidas Juodas 3m"
+    ]
+  },
+  "15": {
+    "size": 114,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Elektriniai motoroleriai vaikams": 92,
+      "Elektromobiliai": 12,
+      "Paspiriamosios mašinėlės": 7,
+      "Balansiniai dviratukai": 2,
+      "Moto įvairios": 1
+    },
+    "top_sellers": {
+      "Unknown": 51,
+      "CROSS": 14,
+      "Lean Cars": 12
+    },
+    "price_range": {
+      "min": 29.46,
+      "mean": 240.98043859649127,
+      "max": 722.99
+    },
+    "sample_products": [
+      "HOMCOM motociklo dėklas motorolerio dėklas motociklams, motoroleriams, mopedams, keturračiams motociklams, 48L šalmo dėklas, dėklas iš viršaus, juodas, 59x43x33cm",
+      "Ramiz Balance BMW Rastar Balansinis dviratukas",
+      "Paspiriamas balansinis vaikiškas motociklas Repsol INJUSA",
+      "Technok Balansinis motociklas su garsais ir šviesa, policija",
+      "Paspiriamas balansinis vaikiškas motociklas Šunyčiai patruliai INJUSA"
+    ]
+  },
+  "16": {
+    "size": 280,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Svetainės bufetai": 44,
+      "Pakabinamos lentynos": 39,
+      "Miegamojo lentynos": 36,
+      "Naktinis staliukas": 32,
+      "Kiti miegamojo baldai": 22
+    },
+    "top_sellers": {
+      "vidaXL": 172,
+      "Nenurodyta": 83,
+      "Woodok": 4
+    },
+    "price_range": {
+      "min": 11.99,
+      "mean": 66.60314285714284,
+      "max": 999.0
+    },
+    "sample_products": [
+      "Sodo tvora su grotelėmis ir pergolės viršumi, mediena",
+      "Arka, 141x97x243cm, impregnuotas pušies masyvas",
+      "Rožių arka, 118x40x187cm, bambukas",
+      "Medinis molbertas Woodok, 177 cm",
+      "Woodok Didelis tapybos rinkinys, teptukai, molbertas"
+    ]
+  },
+  "17": {
+    "size": 250,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Elektromobiliai": 100,
+      "Elektriniai keturračiai vaikams": 67,
+      "Paspirtukai": 23,
+      "Elektriniai traktoriai vaikams": 20,
+      "Elektriniai motoroleriai vaikams": 12
+    },
+    "top_sellers": {
+      "Lean Cars": 107,
+      "Unknown": 40,
+      "Homcom": 39
+    },
+    "price_range": {
+      "min": 9.0,
+      "mean": 279.02191999999997,
+      "max": 802.79
+    },
+    "sample_products": [
+      "Energy Sistem Lol&amp;Roll Pop Kids nešiojama kolonėlė, Rožinės spalvos",
+      "HOMCOM Vaikiškas 16 colių paspirtukas su pneumatinėmis padangomis, reguliuojamo aukščio paspirtukas, rausvos spalvos paspirtukas, skirtas vaikams nuo 5 metų ir vyresniems",
+      "HOMCOM Paspirtukas Paspirtukas Paspirtukas vaikiškas paspirtukas nuo 5 metų, su pneumatinėmis padangomis, 16/12 colių, mėlynas, 135 x 58 x 88-94 cm",
+      "Homcom Miesto paspirtukas vaikams su pneumatinėmis padangomis 120 x 58 x 75-80 cm",
+      "HOMCOM Vaikiškas paspirtukas nuo 5 metų Paspirtukas Vaikiškas paspirtukas Pedalinis paspirtukas Miesto paspirtukas Pneumatinės padangos 12 colių Guma Aliuminis Juoda 120x58x85-95cm"
+    ]
+  },
+  "18": {
+    "size": 127,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Elektriniai traktoriai vaikams": 68,
+      "Pedaliniai traktoriai": 46,
+      "Įvairus mini transportas": 6,
+      "Paspiriamosios mašinėlės": 4,
+      "Elektriniai keturračiai vaikams": 2
+    },
+    "top_sellers": {
+      "FALK": 32,
+      "Lean Cars": 25,
+      "Rolly Toys": 23
+    },
+    "price_range": {
+      "min": 18.71,
+      "mean": 243.9961417322835,
+      "max": 551.19
+    },
+    "sample_products": [
+      "„Falk Baby Claas Žalias“ traktorius su priekaba + AKC. Nuo 1 metų",
+      "Malplay Paspiriamas traktorius, ekskavatorius stumdukas su kaušu",
+      "Vaikiškas minamas traktorius su kaušu ir priekaba CLAAS Falk",
+      "Minamas traktorius su priekaba Komatsu Falk",
+      "FALK Pedalinis žalias traktorius Lander su priekaba nuo 3 metų"
+    ]
+  },
+  "19": {
+    "size": 174,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Vaikiški lauko baldai": 36,
+      "Svetainės bufetai": 30,
+      "Miegamojo komplektai": 22,
+      "Vaikų kambario komplektai": 20,
+      "Lauko stalai": 18
+    },
+    "top_sellers": {
+      "vidaXL": 69,
+      "Nenurodyta": 35,
+      "Unknown": 20
+    },
+    "price_range": {
+      "min": 4.99,
+      "mean": 119.45091954022988,
+      "max": 472.99
+    },
+    "sample_products": [
+      "Sulankstomas stalo futbolo stalas, 121x61x80cm, šviesiai rudas",
+      "Big Tree Futbolo stalas vaikiškas",
+      "Mažas stalo futbolo stalas, klevo spalvos, 69x37x62cm",
+      "Ledo ritulio stalas, 66,5 x 34,5 cm., be kojų",
+      "Edukacinis medinis stalas vaikams, pastelinis"
+    ]
+  },
+  "20": {
+    "size": 100,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Lauko baldų komplektas": 55,
+      "Lauko lovos": 31,
+      "Miegamojo lovos": 6,
+      "Vaikų kambario komplektai": 2,
+      "Vaikų kambario lovos": 2
+    },
+    "top_sellers": {
+      "Nenurodyta": 45,
+      "vidaXL": 28,
+      "Outsunny": 12
+    },
+    "price_range": {
+      "min": 35.1,
+      "mean": 331.7596,
+      "max": 1047.27
+    },
+    "sample_products": [
+      "Lova Sofa, taupe spalvos, 100x200cm, audinys",
+      "Lova Sofa, juodos spalvos, 100x200cm, audinys",
+      "Sofa-lova Atmosphera Dohan Poliesteris Tamsiai pilka (182 x 80 x 80 cm)",
+      "Lova Sofa, rožinės spalvos, 90x200cm, aksomas",
+      "Lova Sofa, tamsiai pilkos spalvos, 80x200cm, aksomas"
+    ]
+  },
+  "21": {
+    "size": 56,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Žaidimų kėdės (Gaming Chairs)": 54,
+      "Supamos kėdės ir krėslai": 2
+    },
+    "top_sellers": {
+      "Diablo Chairs": 17,
+      "Canyon": 13,
+      "Sense7": 13
+    },
+    "price_range": {
+      "min": 48.99,
+      "mean": 211.5944642857143,
+      "max": 871.13
+    },
+    "sample_products": [
+      "Songmics Supama kėdė LYY10G, pilkos spalvos",
+      "Songmics Supama kėdė LYY010G01, šviesiai pilkos spalvos",
+      "Žaidimų kėdė Sense7 Spellcaster fabric Gaming Chair, Juoda",
+      "Žaidimų kėdė Sense7 Spellcaster fabric Gaming Chair, Juoda-pilka",
+      "SENSE7 Spellcaster medžiaginė žaidimų kėdė Senshi Edition XL, pilkos spalvos"
+    ]
+  },
+  "22": {
+    "size": 207,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Lauko kėdės ir foteliai": 40,
+      "Turistinės kėdės": 31,
+      "Supamos kėdės ir krėslai": 28,
+      "Automobilinės kėdutės": 27,
+      "Automobilinių kėdučių priedai": 15
+    },
+    "top_sellers": {
+      "vidaXL": 50,
+      "Unknown": 26,
+      "Outsunny": 17
+    },
+    "price_range": {
+      "min": 3.49,
+      "mean": 121.37086956521738,
+      "max": 409.99
+    },
+    "sample_products": [
+      "Automobilinė kėdutė Joie I-Spin 360 E, 9-18 kg, Juodos spalvos",
+      "Britax Römer BRITAX automobilinė kėdutė KIDFIX i-SIZE, galaktikos juodos spalvos, 2000037173",
+      "Automobilinė kėdutė Graco Junior Maxi R129, Rudos spalvos",
+      "Britax Romer Dualfix M Plus automobilinė kėdutė, Pilkos spalvos, 2000036889",
+      "Britax Romer Dualfix M Plus automobilinė kėdutė, Juodos spalvos, 2000036888"
+    ]
+  },
+  "23": {
+    "size": 238,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Balansiniai dviratukai": 47,
+      "Įvairios sporto prekės": 29,
+      "Dviračių stovai ir laikikliai": 28,
+      "Dviratukai-triratukai": 25,
+      "Dviračių kėdutės": 25
+    },
+    "top_sellers": {
+      "Rockbros": 38,
+      "Unknown": 28,
+      "Bobike": 15
+    },
+    "price_range": {
+      "min": 2.26,
+      "mean": 140.5403781512605,
+      "max": 1339.99
+    },
+    "sample_products": [
+      "\"Outsunny\" dviračių laikymo palapinė, vandeniui atspari dviračių stoginė su durimis, dviračių apsauga nuo dulkių, pastogė, stoginė namams, lauke, sodo kieme 300x600x230 cm, tamsiai pilka",
+      "\"Outsunny\" dviračių laikymo palapinė, vandeniui atspari dviračių stoginė su durimis, dviračių apsauga nuo dulkių, pastogė, stoginė namams, lauke, sodo kieme 300x450x230 cm, tamsiai pilka",
+      "Babystyle Baby Style Oyster 3 - vežimėlio lopšys | pilkos spalvos su sidabrinėmis detalėmis",
+      "Motociklo valstybinio numerio laikiklis, juodas, 1 vnt.",
+      "Žaidimų vairas THRUSTMASTER TMX FFB/4460136, Juodos spalvos"
+    ]
+  },
+  "24": {
+    "size": 53,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Dviračių priekabos vaikams": 52,
+      "Dviračių stovai ir laikikliai": 1
+    },
+    "top_sellers": {
+      "vidaXL": 52,
+      "Unknown": 1
+    },
+    "price_range": {
+      "min": 59.29,
+      "mean": 73.3522641509434,
+      "max": 86.91
+    },
+    "sample_products": [
+      "Dviračio laikiklis, plieno, juodas",
+      "Dviračio priekaba, juodos ir raudonos spalvos, 45kg, geležis",
+      "Dviračio priekaba, juodos ir oranžinės spalvos, 45kg, geležis",
+      "Dviračio priekaba, juodos ir raudonos spalvos, 45kg, geležis",
+      "Dviračio priekaba, mėlynos spalvos, oksfordo audinys ir geležis"
+    ]
+  },
+  "25": {
+    "size": 63,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Dviaukštės lovos vaikams": 40,
+      "Gultukai, sūpynės kūdikiui": 4,
+      "Pripučiami čiužiniai": 4,
+      "Lauko baldų komplektas": 2,
+      "Lauko kėdės ir foteliai": 2
+    },
+    "top_sellers": {
+      "Meblobed": 40,
+      "Coleman": 4,
+      "BabyBjorn": 3
+    },
+    "price_range": {
+      "min": 3.98,
+      "mean": 372.54349206349207,
+      "max": 990.0
+    },
+    "sample_products": [
+      "Miego rinkinys Grace Cole (miego kaukė, 100 ml namų gaiviklis)",
+      "Neno Nube - elektroniniai gultai, hamakai, IŠPARDAVIMAS",
+      "BabyBjorn Bliss - vaikiškas gultas | Austas Smėlio spalvos Futbolas",
+      "BABYBJÖRN gultukas BLISS 3D Jersey, šviesiai pilkas",
+      "BabyBjorn Bliss - vaikiškas gultas | Austi žiedlapių antklodės šviesa Pilkas"
+    ]
+  },
+  "26": {
+    "size": 74,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Snieglenčių batai": 46,
+      "Snieglentės": 24,
+      "Slidinėjimo batai": 3,
+      "Rogės": 1
+    },
+    "top_sellers": {
+      "Ride": 68,
+      "Nordica": 3,
+      "Burton": 2
+    },
+    "price_range": {
+      "min": 45.47,
+      "mean": 186.15878378378378,
+      "max": 812.98
+    },
+    "sample_products": [
+      "Kalnų slidinėjimo batai Nordica TEAM 1 - 155",
+      "Kalnų slidinėjimo batai Nordica TEAM 2 - 190",
+      "Kalnų slidinėjimo batai Nordica TEAM 1 - 165",
+      "Ride Context juodas snieglenčių batai",
+      "Ride Harper juodas snieglenčių batai"
+    ]
+  },
+  "27": {
+    "size": 103,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Slidės": 52,
+      "Slidinėjimo batai": 36,
+      "Slidinėjimo lazdos": 10,
+      "Slidinėjimo kojinės": 4,
+      "Pačiūžos": 1
+    },
+    "top_sellers": {
+      "Fischer": 61,
+      "Line Skis": 15,
+      "Head": 10
+    },
+    "price_range": {
+      "min": 12.47,
+      "mean": 269.805145631068,
+      "max": 1432.0
+    },
+    "sample_products": [
+      "LENZ Skiing 4.0 slidinėjimo kojinės (Dydis: 35-38)",
+      "LENZ Skiing 4.0 slidinėjimo kojinės",
+      "Slidinėjimo kojinės Lorpen S2WLN Ski-Snowboard Merino 2 Pack - L (43-46)",
+      "Kojinės Lorpen S2WLN Ski-Snowboard Merino 2Pack - Raudona - XL (47-50)",
+      "Kalnų slidinėjimo lazdos One Way Junior High oranžinės spalvos"
+    ]
+  },
+  "28": {
+    "size": 54,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Matricos": 37,
+      "Įvairūs priedai mobiliems įrenginiams": 11,
+      "Automagnetolos": 4,
+      "Universalūs baterijų įkrovikliai": 1,
+      "Projektorius": 1
+    },
+    "top_sellers": {
+      "AUO": 20,
+      "LG": 17,
+      "Unknown": 5
+    },
+    "price_range": {
+      "min": 13.99,
+      "mean": 90.74129629629627,
+      "max": 279.99
+    },
+    "sample_products": [
+      "Automagnetola NVOX HM 716 HD galvos atramos monitorius arba laisvai pastatomas LCD 7 colių HD AV su RĖMU 12V... (NVOX HM",
+      "Automagnetola Monitorius LED 7cali HD HDMI VGA AV 12V... (NVOX HM726NB)",
+      "everActive automatinis AA/AAA elementų įkroviklis su LCD ekranu NC-450 Juodas",
+      "Partner Tele.com Ekranas iPhone 13 su jutikliniu ekranu juodas (ZY-LTPS) IC Perkeliamas",
+      "OEM ekranas iPhone 12/12 Pro su jutikliniu ekranu juodas HQ hard OLED GX!!"
+    ]
+  },
+  "29": {
+    "size": 88,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Mobilieji telefonai": 33,
+      "Dviračių kompiuteriai ir jų priedai": 24,
+      "Įvairūs priedai mobiliems įrenginiams": 16,
+      "Universalūs baterijų įkrovikliai": 3,
+      "Džiovyklės": 3
+    },
+    "top_sellers": {
+      "Xiaomi": 22,
+      "3Mk": 20,
+      "Samsung": 15
+    },
+    "price_range": {
+      "min": 2.99,
+      "mean": 213.32988636363635,
+      "max": 1099.0
+    },
+    "sample_products": [
+      "Išmanusis telefonas Samsung Galaxy A55 5G 128 GB (Awesome Navy)",
+      "Išmanusis telefonas Poco X7 Pro, 12+512 GB, juodos spalvos",
+      "Išmanusis telefonas Xiaomi Redmi 13 8GB/256GB, Mėlynos spalvos",
+      "Išmanusis telefonas Xiaomi Redmi Note 13, 8+256GB, Juodos spalvos",
+      "Išmanusis telefonas Xiaomi Redmi Note 13 Pro+ 5G, 6,67 col., 12+512 GB, Juodos spalvos"
+    ]
+  },
+  "30": {
+    "size": 87,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Įvairus mini transportas": 36,
+      "Pedaliniai keturračiai": 22,
+      "Elektromobiliai": 13,
+      "Žaidimų vairai (wheels)": 4,
+      "Elektriniai traktoriai vaikams": 2
+    },
+    "top_sellers": {
+      "Berg": 73,
+      "Next Level Racing": 2,
+      "Speedlink": 2
+    },
+    "price_range": {
+      "min": 9.86,
+      "mean": 1687.0305747126433,
+      "max": 3600.0
+    },
+    "sample_products": [
+      "Joie i-Advance - modulinis isofix pagrindas, skirtas i-Gemm, i-Anchor, i-Venture",
+      "Verk Group Racijų komplektas Baofeng BF-T17",
+      "Pilstoletas su priedais, Nerf Triad EX-3",
+      "Next Level Racing F-GT Lite Playstation edition simuliatoriaus rėmas",
+      "Žaidimų simuliatoriaus rėmas Next Level Racing COCKPITS F-GT Lite"
+    ]
+  },
+  "31": {
+    "size": 83,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Vaizdo registratoriai": 36,
+      "Veiksmo kameros ir GoPro kameros": 35,
+      "Fotoaparatai": 5,
+      "Įvairūs priedai mobiliems įrenginiams": 3,
+      "Fototechnikos pultai": 2
+    },
+    "top_sellers": {
+      "Sjcam": 12,
+      "70mai": 11,
+      "Akaso": 11
+    },
+    "price_range": {
+      "min": 10.99,
+      "mean": 148.37771084337348,
+      "max": 2205.99
+    },
+    "sample_products": [
+      "Veiksmo kamera GoPro Hero12, Juoda",
+      "Kamera Akaso EK7000 Pro",
+      "Veiksmo kamera SJCAM SJ8 dvigubo ekrano",
+      "Kamera Akaso Brave 7",
+      "Veiksmo Kamera - SJCAM A50 Naktinis Režimas, Atsparus Vandeniui, Juoda"
+    ]
+  },
+  "32": {
+    "size": 72,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Vandens batai": 47,
+      "Nardymo kaukės ir vamzdeliai": 6,
+      "Plaukimo rankovės": 5,
+      "Nešiojamos kolonėlės": 4,
+      "Plaukimo lentos ir plūdurai": 3
+    },
+    "top_sellers": {
+      "Beco beermann": 56,
+      "Marshall": 4,
+      "Unknown": 3
+    },
+    "price_range": {
+      "min": 3.99,
+      "mean": 29.034583333333337,
+      "max": 465.99
+    },
+    "sample_products": [
+      "Nešiojama kolonėlė Marshall Emberton II, Juodos ir žalvario spalvos",
+      "Nešiojama kolonėlė Marshall Emberton II, Juodos ir sidabrinės spalvos",
+      "Nešiojama kolonėlė Marshall Tufton, Juodos ir Žalvario spalvos",
+      "Marshall Stockwell II nešiojama kolonėlė, Black&amp;Brass spalvos",
+      "Vinilinė plokštelė Miles Davis – Milestones"
+    ]
+  },
+  "33": {
+    "size": 63,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Gimnastikos kamuoliai": 42,
+      "Masažo reikmenys": 10,
+      "Stalo futbolas": 6,
+      "Gultukai, sūpynės kūdikiui": 1,
+      "Žaidimų konsolės (PS, Xbox)": 1
+    },
+    "top_sellers": {
+      "Insportline": 11,
+      "Tiguar": 8,
+      "Tunturi": 7
+    },
+    "price_range": {
+      "min": 1.0,
+      "mean": 23.84888888888889,
+      "max": 157.7
+    },
+    "sample_products": [
+      "Gimnastikos kamuolys Zipro Anti-Burst 65cm, juodas",
+      "Tiny Love daugiafunkcinis gultas-sūpynės-kėdė 3in1 su baldakimu - kamuoliuku",
+      "Krepšinio lenta su kamuoliu ir elektroniniu taškų skaitikliu",
+      "Sulankstomas stalo futbolo stalas, 121x61x80cm, juodas",
+      "Multistore Mini stalo futbolas vaikams du kamuoliukai"
+    ]
+  },
+  "34": {
+    "size": 57,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Alpinizmo įranga": 46,
+      "Vinilinės plokštelės": 4,
+      "Siuvimo ir audimo priedai": 2,
+      "Palapinės": 2,
+      "Gultukai, sūpynės kūdikiui": 1
+    },
+    "top_sellers": {
+      "Singing Rock": 46,
+      "Singer": 2,
+      "Rock": 2
+    },
+    "price_range": {
+      "min": 7.0,
+      "mean": 35.9978947368421,
+      "max": 259.0
+    },
+    "sample_products": [
+      "Chicco Meluojantis Rhythm 'n' sound Mėnulis Grėjus",
+      "Singer Premium siuvimo rinkinys",
+      "Singer siuvimo rinkinys pradedantiesiems 13640",
+      "Vinilinė plokštelė Nirvana ‎– MTV Unplugged In New York",
+      "Vinilinė plokštelė Bruce Springsteen ‎– Tunnel Of Love"
+    ]
+  },
+  "35": {
+    "size": 57,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Pačiūžos": 12,
+      "Palapinės": 10,
+      "Turistinės kuprinės": 10,
+      "Kelioniniai šaltkrepšiai ir priedai": 5,
+      "Rinkiniai siuvinėjimui": 4
+    },
+    "top_sellers": {
+      "Ferrino": 25,
+      "K2": 8,
+      "Stanley": 4
+    },
+    "price_range": {
+      "min": 6.9,
+      "mean": 152.29614035087718,
+      "max": 758.0
+    },
+    "sample_products": [
+      "Liquid Elements Winter De-Icer ledo tirpdiklis",
+      "Blue Frozen 2 \"Mėlyna\" Vaikiškas rankšluostis-pončas, 50x115 cm",
+      "Beldizart Kryželiu siuvinėjimo rinkinys „Atėjo žiema. Miške“ S0-236",
+      "Beldizart Kryželiu siuvinėjimo rinkinys \"Žiema atėjo. Snowy\" S0-240",
+      "Beldizart Kryželiu siuvinėjimo rinkinys „Atėjo žiema. Kelias namo“ S0-239"
+    ]
+  },
+  "36": {
+    "size": 95,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Laistymo žarnų ritės": 30,
+      "Stovai augalams": 24,
+      "Laistymo priemonės, įranga": 7,
+      "Pakabinamas krėslas": 6,
+      "Lauko sūpynės": 5
+    },
+    "top_sellers": {
+      "Gardena": 37,
+      "vidaXL": 27,
+      "Unknown": 6
+    },
+    "price_range": {
+      "min": 4.99,
+      "mean": 93.36136842105262,
+      "max": 339.99
+    },
+    "sample_products": [
+      "Outsunny Metalinis sodo įrankių namelis 1 x 1 m, 0,92 m² - tamsiai pilkas",
+      "Nature Nepermatoma sodo tvora, žalia, PE, 1,5x10m",
+      "Dimensions Groves Of Thame Fleurs de Paris D35204",
+      "DIMENSIONS Groves Of Thame Orchid D35176",
+      "Oh Art Gėlė vazoje 40*50 cm"
+    ]
+  },
+  "37": {
+    "size": 77,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Skėčiai nuo saulės": 32,
+      "Pavėsinės ir tentai": 23,
+      "Tvoros ir vartai sodui": 9,
+      "Lauko stalai": 5,
+      "Gultai": 2
+    },
+    "top_sellers": {
+      "Outsunny": 61,
+      "AquaBeat": 4,
+      "Unknown": 3
+    },
+    "price_range": {
+      "min": 16.99,
+      "mean": 220.53363636363642,
+      "max": 959.99
+    },
+    "sample_products": [
+      "Outsunny Metalinis sodo sandėliukas, įrankių stoginė su stumdomomis durimis, vėdinimo langu - šviesiai žalia 280 x 130 x 172 cm",
+      "\"Outsunny\" įrankių stoginė 4,9 m², sodo stoginė su vienšlaičiu stogu, stumdomomis durimis, pamatais, 277 x 195 x 192 cm, cinkuota plieninė įrankių stoginė, atspari atmosferos poveikiui, skirta sodui, šviesiai ruda",
+      "Outsunny Sodo namelis su grindų rėmu ir stumdomomis durimis, atsparus oro sąlygoms, plienas, šviesiai žalias, 213x130x185cm",
+      "Outsunny Metalinis sandėliukas su vėdinimo langu, vienšlaičiu stogu - tamsiai žalia, 280 x 130 x 172 cm",
+      "\"Outsunny\" stoginė įrankiams 2,42 m², sodo stoginė su vėdinimo langu, stumdomomis durimis, pamatai, 213 x 130 x 159/172 cm, cinkuoto plieno stoginė įrankiams, atspari oro sąlygoms, skirta sodui, žalia"
+    ]
+  },
+  "38": {
+    "size": 68,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Naktinis staliukas": 19,
+      "Miegamojo lovos": 14,
+      "Dekoratyvinės pagalvėlės ir užvalkalai": 12,
+      "Vaikų kambario lovos": 11,
+      "Pagalvės": 4
+    },
+    "top_sellers": {
+      "Nenurodyta": 28,
+      "vidaXL": 15,
+      "Hosteline": 12
+    },
+    "price_range": {
+      "min": 8.0,
+      "mean": 115.04279411764708,
+      "max": 757.37
+    },
+    "sample_products": [
+      "Lauko dėžė pagalvėlėms, 60x50x61 cm, akacijos masyvas",
+      "Vaikiška lova su stogu, 80x160cm, pušies medienos masyvas",
+      "Vaikiška lova su stogu, 70x140cm, pušies medienos masyvas",
+      "Lova lovos rėmas be čiužinio rudas ąžuolas inžinerinė mediena",
+      "Lova Osmanų lovos rėmas su čiužiniais, žalias, 200x200cm, aksomas"
+    ]
+  },
+  "39": {
+    "size": 59,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Vaikų kambario lovos": 49,
+      "Miegamojo lovos": 5,
+      "Gultai": 2,
+      "Gultukai, sūpynės kūdikiui": 1,
+      "Vaikų kambario stalai": 1
+    },
+    "top_sellers": {
+      "Unknown": 33,
+      "CLASSIC": 6,
+      "Safari": 5
+    },
+    "price_range": {
+      "min": 11.35,
+      "mean": 298.7706779661017,
+      "max": 503.28
+    },
+    "sample_products": [
+      "BabyBjorn Bliss/Balance Soft - užvalkalas gultui | Austa dulkėta rožinė (žiedlapių antklodė)",
+      "Ištraukiama lova su stalčiais, geltona, 80x200cm, aksomas",
+      "Ištraukiama lova su stalčiais, rožinė, 100x200cm, aksomas",
+      "Ištraukiama lova su stalčiais, rožinė, 100x200cm, aksomas",
+      "Ištraukiama lova su stalčiais, geltona, 80x200cm, aksomas"
+    ]
+  },
+  "40": {
+    "size": 68,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Saldumynai": 37,
+      "Traškučiai ir užkandžiai": 12,
+      "Dovanos moterims": 6,
+      "Pakabinamos lentynos": 3,
+      "Marškinėliai": 2
+    },
+    "top_sellers": {
+      "Rūta": 49,
+      "Lindt": 7,
+      "Unknown": 5
+    },
+    "price_range": {
+      "min": 1.04,
+      "mean": 12.009264705882355,
+      "max": 89.0
+    },
+    "sample_products": [
+      "Vaškas kasetėje Starpil Roll-On Chocolatherapy, šokoladinis, 110 g",
+      "Granola su šokolado trupinėlias, braškėmis ir juodaisiais serbentais Bioland, 400g",
+      "XL \"LINDT GOLD\" pieninis šokoladas su neskaldytais lazdynų riešutais, 300g",
+      "\"LINDT EXCELLENCE\" juodasis šokoladas (85%), 100 g",
+      "Rūta Džiovintos šaltyje braškės su baltuoju šokoladu ir Matcha „Čiurlionis“, 115 g"
+    ]
+  },
+  "41": {
+    "size": 100,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Traškučiai ir užkandžiai": 20,
+      "Saldumynai": 12,
+      "Kruopos dribsniai ir košės": 11,
+      "Trintuvės ir tarkos": 7,
+      "Turistiniai indai, puodai": 5
+    },
+    "top_sellers": {
+      "Fiskars": 13,
+      "Unknown": 13,
+      "Rūta": 12
+    },
+    "price_range": {
+      "min": 1.0,
+      "mean": 18.132800000000003,
+      "max": 279.92
+    },
+    "sample_products": [
+      "\"Veet\" cukraus vaškas visų tipų odai 250ml",
+      "Vaškas kasetėje Starpil Roll-On Frutas Del Bosque su miško vaisiais, 110 g",
+      "Vaškas kasetėje Starpil, arbūzų, 110 g",
+      "Sportinis vežimėlis Carrello Delta Wheat rusvai gelsvas",
+      "HiPP pieniška penkių grūdų košė su džiovintomis slyvomis nuo 6 mėn., 250 g"
+    ]
+  },
+  "42": {
+    "size": 142,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Arkadiniai valdikliai (Arcade sticks)": 27,
+      "Žaidimų pultai (gamepads)": 26,
+      "Modeliavimo ir lipdymo reikmenys": 22,
+      "Žaidimų konsolės (PS, Xbox)": 21,
+      "Žaidimų vairai (wheels)": 19
+    },
+    "top_sellers": {
+      "Play-Doh": 21,
+      "MY ARCADE": 15,
+      "Unknown": 14
+    },
+    "price_range": {
+      "min": 1.9,
+      "mean": 132.30908450704226,
+      "max": 1135.99
+    },
+    "sample_products": [
+      "DJI Osmo Action 4 Adventure Combo",
+      "Wizardi Tapybos pagal skaičius rinkinys: R020 Vintage violin 40*50",
+      "Žaidimų konsolė Sony Playstation 5 PRO DIGITAL 2TB",
+      "Konsolė Sony PlayStation 5 Digital Slim Edition 1TB SSD Wi-Fi Juoda, Balta",
+      "Sony PlayStation 5 SLIM žaidimų konsolė (1 TB SSD, Disc Drive)"
+    ]
+  },
+  "43": {
+    "size": 96,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Veidrodžiai": 72,
+      "Makiažo staliukai": 16,
+      "Kosmetinės": 2,
+      "Gaubliai ir žemėlapiai": 1,
+      "Miegamojo spintos": 1
+    },
+    "top_sellers": {
+      "Unknown": 40,
+      "vidaXL": 28,
+      "Homcom": 10
+    },
+    "price_range": {
+      "min": 7.99,
+      "mean": 118.859375,
+      "max": 487.8
+    },
+    "sample_products": [
+      "Yolanda kvadratinis stovimas veidrodis",
+      "Sieninis veidrodis popierius apvali 60 cm",
+      "Homcom Sieninis veidrodis su LED 2 in 1 stovinčiu veidrodžiu, veidrodis per visą ilgį",
+      "Arkinis viso ūgio veidrodis, 165 x 55,8 cm, pastatomas pakabinamas, kūno veidrodis",
+      "Vonios veidrodis Mexen Erg su LED apšvietimu ir apsauga nuo rasojimo, 100 cm"
+    ]
+  },
+  "44": {
+    "size": 129,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Automobilių lemputės": 33,
+      "Prožektoriai ant galvos": 22,
+      "Makiažo staliukai": 12,
+      "Stovyklavimo žibintai, šviestuvai": 11,
+      "Manikiūro, pedikiūro priemonės": 9
+    },
+    "top_sellers": {
+      "Unknown": 16,
+      "Osram": 13,
+      "vidaXL": 10
+    },
+    "price_range": {
+      "min": 2.5,
+      "mean": 82.2815503875969,
+      "max": 1735.99
+    },
+    "sample_products": [
+      "Digitalas JD-06 LED signalinė lempa, universali įtampa AC/DC 12V-265V",
+      "SOMMER fotoelementai vartams",
+      "Osram lemputės Night Breaker ,+220%, H7, 55W, 64210NB220",
+      "Osram lemputės Night Breaker lazerinis,+150%, H1, 55W,2 vnt, DUO O641",
+      "Osram lemputės Night Breaker ,+220%, H7, 55W,2 vnt, DUO 64210NB220"
+    ]
+  },
+  "45": {
+    "size": 67,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Gėrimų gaminimo aparatai ir priedai": 56,
+      "Gertuvės": 5,
+      "Gultai": 2,
+      "Komposto dėžės": 1,
+      "Purkštuvai ir dalys": 1
+    },
+    "top_sellers": {
+      "SodaStream": 53,
+      "Hydrapak": 4,
+      "Unknown": 2
+    },
+    "price_range": {
+      "min": 6.99,
+      "mean": 38.992835820895515,
+      "max": 149.99
+    },
+    "sample_products": [
+      "SODASTREAM angliarūgštės (CO2) cilindro papildymas*",
+      "SodaStream Quick Connect CO2 angliarūgštės cilindras 60L, rožinis",
+      "Mountain Dew skonio SodaStream sirupas, 440ml",
+      "Sodo purkštuvas Flo 15 l",
+      "Master Sodo konteineris 195L"
+    ]
+  },
+  "46": {
+    "size": 54,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Figūrėlės": 13,
+      "Pedaliniai traktoriai": 11,
+      "Įvairus mini transportas": 6,
+      "Paspiriamosios mašinėlės": 5,
+      "Formelių rūšiuokliai": 4
+    },
+    "top_sellers": {
+      "Lean Toys": 17,
+      "Rolly Toys": 17,
+      "Ecotoys": 3
+    },
+    "price_range": {
+      "min": 4.99,
+      "mean": 63.55833333333334,
+      "max": 314.39
+    },
+    "sample_products": [
+      "Ecotoys Dviratukas Eco Toys Dog",
+      "Viga Toys Medinis paspirtukas",
+      "Lean Toys Paspiriama mašinėlė QX-3396, baltos spalvos",
+      "Rolly Toys Savivartis Priekaba Joskin",
+      "Rolly Toys „Rolly Toy Rolltrailer Cissterna“ priekaba su „PIL“"
+    ]
+  },
+  "47": {
+    "size": 141,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Lauko, sodo sandėliukai": 33,
+      "Kiti svetainės baldai": 13,
+      "Galąstuvai": 6,
+      "Vaikų kambario komplektai": 6,
+      "Šiltnamių ir sodo aksesuarai, priedai": 5
+    },
+    "top_sellers": {
+      "Nenurodyta": 44,
+      "vidaXL": 25,
+      "Unknown": 11
+    },
+    "price_range": {
+      "min": 3.6,
+      "mean": 68.1263829787234,
+      "max": 956.42
+    },
+    "sample_products": [
+      "Vartai, antracito spalvos, 404x250cm, plienas",
+      "Outsunny Mažas metalinis sandėliukas 0,92 m², 100 x 103 x 160 cm - ruda",
+      "SONAX metalo dulkių, rūdžių valiklis, 500ml",
+      "FX Protect Iron Remover metalo dalelių valiklis",
+      "NANO DANGA METALUI IR PLASTIKUI (80 ml)"
+    ]
+  },
+  "48": {
+    "size": 56,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Termo mediena": 34,
+      "Įvairūs medienos gaminiai": 13,
+      "Terasinė mediena": 6,
+      "Komplektai vaikams": 2,
+      "Priedai kepsninėms ir griliams": 1
+    },
+    "top_sellers": {
+      "Medžio Bitės": 53,
+      "Viking": 2,
+      "Kamado Bono": 1
+    },
+    "price_range": {
+      "min": 6.69,
+      "mean": 19.086428571428574,
+      "max": 65.0
+    },
+    "sample_products": [
+      "Medžio Bitės Alyva TEKNOS (ANTHRACITE) - 0,90l",
+      "Medžio Bitės Alyva ROYAL (Pilkas) - 0,68l",
+      "Medžio Bitės Alyva TEKNOS (ANTHRACITE) - 2,70l",
+      "Medžio Bitės Alyva TEKNOS (BANGKIRAI) - 2,70l",
+      "Medžio Bitės Alyva ROYAL Eksklusiv (Pilkas) - 2.7l"
+    ]
+  },
+  "49": {
+    "size": 130,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Termosai": 54,
+      "Termo puodeliai": 49,
+      "Termometrai ir barometrai": 10,
+      "Priedai kepsninėms ir griliams": 4,
+      "Lipdukai": 4
+    },
+    "top_sellers": {
+      "Thermos": 18,
+      "Contigo": 17,
+      "Esbit": 10
+    },
+    "price_range": {
+      "min": 2.75,
+      "mean": 26.88730769230769,
+      "max": 235.99
+    },
+    "sample_products": [
+      "Oxford Skaitmeninis Termometras Rūkyklai, Griliui, Maistui",
+      "ATL Termometras griliams ar rūkykloms",
+      "Jutiklis Xiaomi Mi Temperature and Humidity Monitor 2, baltas",
+      "Duux Sense higrometras + termometras, Baltas",
+      "Skaitmeninis Miernik Temperatury su IR USB PeakTech 4960"
+    ]
+  },
+  "50": {
+    "size": 57,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Pripučiami čiužiniai": 38,
+      "Pompos": 13,
+      "Tvenkiniams": 3,
+      "Turistinės kuprinės": 1,
+      "Lauko ir išlikimo reikmenys": 1
+    },
+    "top_sellers": {
+      "Intex": 32,
+      "Bestway": 10,
+      "Aqua Nova": 3
+    },
+    "price_range": {
+      "min": 6.08,
+      "mean": 65.0980701754386,
+      "max": 260.0
+    },
+    "sample_products": [
+      "Dunlop Dunlop 174Psi pompa su universaliu manometru",
+      "Verk Group Elektrinė degalų pompa 12v",
+      "\"Intex\" elektrinis siurblys, 480 L/min.",
+      "Cycplus A8 elektrininė pompa",
+      "Elektrinė pompa Intex Quickfill 12/220V"
+    ]
+  },
+  "51": {
+    "size": 119,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Šildyklės": 32,
+      "Oro kondicionieriai": 28,
+      "Ventiliatoriai": 22,
+      "Šilumos siurbliai": 8,
+      "Termo puodeliai": 4
+    },
+    "top_sellers": {
+      "Beurer": 18,
+      "Trotec": 12,
+      "Electrolux": 10
+    },
+    "price_range": {
+      "min": 11.02,
+      "mean": 395.6141176470588,
+      "max": 8910.0
+    },
+    "sample_products": [
+      "Activeshop Vaško šildytuvas 400ml, 100W Baltas",
+      "Activeshop Vaško šildytuvas iWax 500ml, 100W",
+      "Activeshop Vaško šildytuvas iWax 400ml, 150W",
+      "Vaško šildytuvas OSOM Professional Wax Heater OSOMPSD20I",
+      "Munchkin apsauga nuo saulės automobilyje, reaguojanti į karštį, 2vnt"
+    ]
+  },
+  "52": {
+    "size": 136,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Hanteliai ir svoriai": 37,
+      "Pakabinamas krėslas": 24,
+      "Hamakai": 20,
+      "Gelbėjimosi liemenės ir ratai": 15,
+      "Įvairios sporto prekės": 7
+    },
+    "top_sellers": {
+      "Outsunny": 26,
+      "Tunturi": 21,
+      "Amazonas": 19
+    },
+    "price_range": {
+      "min": 5.37,
+      "mean": 63.11470588235294,
+      "max": 341.01
+    },
+    "sample_products": [
+      "Gertuvės laikiklis Bulls juodas nuo 400ml iki 750ml",
+      "HOMCOM miesto paspirtukas Kickboard max. apkrova 100 kg",
+      "\"Payot Nue\" švelnios valomosios putos 150ml",
+      "Serumas nuo senėjimo Elemis 30 ml",
+      "Wibo Unicorn Tears, 30 g"
+    ]
+  },
+  "53": {
+    "size": 63,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Hamakai": 7,
+      "Pripučiami čiužiniai": 6,
+      "Lipdukai": 4,
+      "Vaikų kambario spintos": 3,
+      "Dviratininkų pirštinės": 3
+    },
+    "top_sellers": {
+      "Unknown": 10,
+      "Ticket To The Moon": 6,
+      "Meteor": 4
+    },
+    "price_range": {
+      "min": 2.94,
+      "mean": 65.82746031746032,
+      "max": 410.57
+    },
+    "sample_products": [
+      "Britax Römer apsauga nuo saulės STAY COOL",
+      "Moon adapteriai",
+      "4M Tamsoje šviečiančios žvaigždės",
+      "4M Tamsoje Švytintis mėnulis (didelis) ir žvaigždės",
+      "Genesis Seaborg 400"
+    ]
+  },
+  "54": {
+    "size": 119,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Automagnetolos": 60,
+      "FM moduliatoriai": 26,
+      "Magnetolos, Radijo grotuvai": 14,
+      "Nešiojamos kolonėlės": 6,
+      "Automobiliniai telefonų krovikliai": 2
+    },
+    "top_sellers": {
+      "Blow": 21,
+      "Pioneer": 16,
+      "JVC": 10
+    },
+    "price_range": {
+      "min": 4.11,
+      "mean": 121.09336134453781,
+      "max": 1322.82
+    },
+    "sample_products": [
+      "Automagnetola Kenwood, DPX-7300DAB 2-DIN USB/CD MP3 magnetola su AUX",
+      "Automagnetola Pioneer SPH-EVO93DAB-UNI",
+      "Automagnetola Vordon HT-760 Bristol",
+      "Automagnetola Radijas BLOW AVH-9620 2DIN",
+      "Automagnetola Pioneer FH-S720BT"
+    ]
+  },
+  "55": {
+    "size": 162,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Užvedimo laidai": 14,
+      "Kombinezonai": 10,
+      "Neperšlampami maišai ir dėklai": 10,
+      "Nešiojamos kolonėlės": 9,
+      "Kosmetinės": 7
+    },
+    "top_sellers": {
+      "Unknown": 19,
+      "GYS": 14,
+      "Mil-Tec": 6
+    },
+    "price_range": {
+      "min": 3.6,
+      "mean": 55.72067901234568,
+      "max": 589.99
+    },
+    "sample_products": [
+      "Įkraunamas elektrinis skustuvas Philips Wet&amp;Dry S3231/52, Juodas",
+      "HAUCK vežimėlis RAPID 4D Air, Juodos spalvos, 148488",
+      "Autokėdutė Joie Every Stage R129 (Grupė 0+/1/2/3), pilkos spalvos",
+      "Transportavimo krepšys vaikiškam vežimėliui MAST SWISS, Juodos spalvos (Skirtas MAST M2X)",
+      "Tinklelis nuo vabzdžių Cybex Platinum vežimėlių lopšiams, juoda"
+    ]
+  },
+  "56": {
+    "size": 159,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Paspiriamosios mašinėlės": 47,
+      "Elektriniai keturračiai vaikams": 18,
+      "Elektromobiliai": 14,
+      "Oro gaivikliai": 13,
+      "Konstruktoriai": 8
+    },
+    "top_sellers": {
+      "Milly Mally": 36,
+      "Smoby": 21,
+      "Unknown": 16
+    },
+    "price_range": {
+      "min": 2.38,
+      "mean": 112.84955974842768,
+      "max": 597.0
+    },
+    "sample_products": [
+      "PegPerego Culla Grande - gondola do wózka Vivace i Veloce | Fiat 500",
+      "Automobilių stogo skersiniai Aguri Prestige Sidabrinis",
+      "SONAX purvo tirpiklis \"Intensive Cleaner Truck+Bus\", 25L",
+      "Motociklo stovas, priekis + galinis keltuvas Humberg MT2",
+      "Kietasvorė motociklo kuprinė W-TEC Shellter"
+    ]
+  },
+  "57": {
+    "size": 66,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Vaikiškos virtuvėlės ir priedai": 28,
+      "Turistiniai peiliai": 11,
+      "Vaikų kambario komplektai": 4,
+      "Marškinėliai": 3,
+      "Keptuvės": 3
+    },
+    "top_sellers": {
+      "Opinel": 11,
+      "Unknown": 7,
+      "Kruzzel": 5
+    },
+    "price_range": {
+      "min": 3.84,
+      "mean": 62.67818181818182,
+      "max": 182.49
+    },
+    "sample_products": [
+      "REVERS Bamboo Derma Fixer veido pudra 8g",
+      "Medinė vaikiška virtuvėlė „Jorė\", 4IQ",
+      "Kruzzel 22115 medinė virtuvė",
+      "Didelė medinė žaidimų virtuvė vaikams, spalvinga, su atsidarančiu šaldytuvu, orkaitė, mikrobangų krosnelė ECOTOYS",
+      "HOMCOM Vaikiška virtuvėlė su priedais, svajonių virtuvėlė nuo 3 metų, žaislinė virtuvėlė, pagaminta iš pušies ir MDF, balta, 74 x 30 x 81 cm"
+    ]
+  },
+  "58": {
+    "size": 86,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Kvepalai moterims": 75,
+      "Kvepalai vyrams": 2,
+      "Pačiūžos": 2,
+      "Depiliacijos priemonės": 1,
+      "Tapyba pagal skaičius ir spalvas": 1
+    },
+    "top_sellers": {
+      "Lattafa": 9,
+      "Hugo Boss": 6,
+      "Lancome": 6
+    },
+    "price_range": {
+      "min": 1.04,
+      "mean": 49.17476744186046,
+      "max": 160.79
+    },
+    "sample_products": [
+      "Veet Minima hipoalerginė vaško juostelė bikini ir pažastų depiliacijai moterims, 16 vnt.",
+      "Artgeist Tapybos pagal skaičius rinkinys - Hot Woman",
+      "Kvepalai vyrams Hugo Boss Hugo Men EDT, 75 ml",
+      "Kvepalai moterims DKNY Be Delicious Fresh Blossom EDP, 100 ml",
+      "Kvepalai moterims Dolce &amp; Gabbana L´imperatrice EDT, 100 ml"
+    ]
+  },
+  "59": {
+    "size": 158,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Kvepalai vyrams": 69,
+      "Kvepalai moterims": 17,
+      "Padažai ir majonezai": 16,
+      "Veido tonikai": 12,
+      "Aliejus ir actas": 7
+    },
+    "top_sellers": {
+      "Lattafa": 20,
+      "Unknown": 14,
+      "Versace": 10
+    },
+    "price_range": {
+      "min": 3.22,
+      "mean": 35.53772151898734,
+      "max": 184.89
+    },
+    "sample_products": [
+      "Burnos plovimas La Saponaria 250 ml Oranžinė Xilitol",
+      "Burnos plovimas Cool Mint Listerine (500 ml)",
+      "Jordan Stay Fresh Fresh Breath dantų pasta 75ml - tūbelė",
+      "Jordan Stay Fresh Dantų pasta Sensitive 75ml - tūbelė",
+      "Gaiviklis NANO avalynei (100 ml)"
+    ]
+  },
+  "60": {
+    "size": 61,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Veido kremas": 19,
+      "Makiažo pagrindai": 9,
+      "Veido odos prausikliai": 8,
+      "Depiliacijos priemonės": 7,
+      "Micelinis vanduo": 5
+    },
+    "top_sellers": {
+      "Cerave": 11,
+      "Starpil": 4,
+      "La Roche-Posay": 3
+    },
+    "price_range": {
+      "min": 3.52,
+      "mean": 21.61704918032787,
+      "max": 141.34
+    },
+    "sample_products": [
+      "Gelis prieš depiliaciją Starpil, 500 ml",
+      "Veet Minima Hair Removal Kreminis Sensitive Skin Depilatory Product moterims, 100 ml",
+      "Eveline Cosmetics Smooth Epil, 175 ml",
+      "Gelis prieš depiliaciją Starpil Refreshing Moisturizing Gel, su medetkomis, 200 ml",
+      "Veet Expert Kreminis Depiliacinis kremas 200ml"
+    ]
+  },
+  "61": {
+    "size": 61,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Pedaliniai keturračiai": 8,
+      "Gultukai, sūpynės kūdikiui": 7,
+      "Įvairus mini transportas": 4,
+      "Gelbėjimosi liemenės ir ratai": 4,
+      "Įvairūs kūrybiniai žaislai": 4
+    },
+    "top_sellers": {
+      "Unknown": 10,
+      "Berg": 8,
+      "BabyBjorn": 4
+    },
+    "price_range": {
+      "min": 1.98,
+      "mean": 85.7850819672131,
+      "max": 320.47
+    },
+    "sample_products": [
+      "CHILDHOME DIDELIS MAMOS REIKMENŲ KREPŠYS MOMMY BAG, PUFFERED - Juodas",
+      "BabyBjörn Bliss Austinė sėdynė, antracitas",
+      "BabyBjörn gultukas Bliss Woven/Petal antklodė Dark žalyas 006140",
+      "Kids Ii Juvenile BRIGHT STARTS sūpuoklės Whimsical Wild",
+      "Baby Bjorn BABYBJÖRN gultukas Bliss Sand grey, 006017"
+    ]
+  },
+  "62": {
+    "size": 72,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Lesalas paukščiams": 23,
+      "Apsaugos nuo vabzdžių": 14,
+      "Kenkėjų kontrolė": 9,
+      "Inkilai": 9,
+      "Virtuvinės žirklės": 3
+    },
+    "top_sellers": {
+      "Vitapol": 7,
+      "Unknown": 6,
+      "Thermacell": 5
+    },
+    "price_range": {
+      "min": 0.42,
+      "mean": 32.209166666666675,
+      "max": 419.99
+    },
+    "sample_products": [
+      "Tinklelis nuo uodų Britax Römer vežimėliui Smile 3",
+      "BabyOno Tinkelis nuo uodų vežimėliui",
+      "SONAX kempinėlė vabzdžių likučių valymui",
+      "Smart World Kūrybinis rinkinys WOW 4 in 1 Jūros gyvūnai /KD",
+      "Indas su padidinimo stiklu vabzdžių tyrinėjimui"
+    ]
+  },
+  "63": {
+    "size": 61,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Vaikų kambario spintos": 16,
+      "Patalynė kūdikiams, vaikams": 9,
+      "Balansiniai dviratukai": 8,
+      "Gultukai, sūpynės kūdikiui": 4,
+      "Vaikų kambario lentynos": 4
+    },
+    "top_sellers": {
+      "Unknown": 20,
+      "Babymam": 7,
+      "Baby Mix": 4
+    },
+    "price_range": {
+      "min": 0.81,
+      "mean": 157.62147540983605,
+      "max": 410.57
+    },
+    "sample_products": [
+      "Kūdikio lizdelis su priedais Babymam, 7 dalių, rudas/pilkas",
+      "Chicco Baby HUG 4in1 Air mobilus lopšys – kėdutė | Tamsiai pilkos spalvos",
+      "MALTEX gultukas voniai Pilkas Zebra 6609",
+      "BabyBjorn Bliss - kūdikių šokinėja | Šviesiai pilka medvilnė",
+      "SONAX šukos gyvūnų plaukams"
+    ]
+  },
+  "64": {
+    "size": 63,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Kempinėlės, padeliai": 8,
+      "Aksesuarai vaikams": 8,
+      "Originalios dovanos": 7,
+      "Įvairūs kūrybiniai žaislai": 3,
+      "Žaidimų konsolės (PS, Xbox)": 3
+    },
+    "top_sellers": {
+      "Unknown": 21,
+      "Magy": 7,
+      "Inter Vion": 2
+    },
+    "price_range": {
+      "min": 0.79,
+      "mean": 24.43888888888889,
+      "max": 199.99
+    },
+    "sample_products": [
+      "Babymam Vežimėlio lopšio komplektas, įdėklas ir čiužinio paklodė",
+      "Babymam Vežimėlio lopšio komplektas, įdėklas ir čiužinio paklodė",
+      "Real Techniques makiažo šepetėlis „Sculpting brush“",
+      "Ruhhy 12 vnt nėrimo kabliukų rinkinys.",
+      "Piešimo rinkinys, Molbertas"
+    ]
+  },
+  "65": {
+    "size": 54,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Soundbar (Garso sistema)": 23,
+      "Automobiliniai garsiakalbiai": 14,
+      "Sintezatoriai ir pianinai": 6,
+      "Diktofonai": 3,
+      "Nešiojamos kolonėlės": 2
+    },
+    "top_sellers": {
+      "JVC": 14,
+      "Sonos": 9,
+      "JBL": 7
+    },
+    "price_range": {
+      "min": 12.36,
+      "mean": 246.13870370370373,
+      "max": 999.0
+    },
+    "sample_products": [
+      "JVC CS-J620X automobilio garso kolonėlė 2 krypčių 300 W Turas",
+      "Automobilinis garsiakalbių rinkinys JVC CS-J610X (2,0, 300 W, 165 mm)",
+      "JVC CS-DR420 automobilio garso kolonėlė 2 krypčių 220 W Turas",
+      "JVC CS-J420X automobilio garso kolonėlė 2 krypčių 210 W Turas",
+      "JVC, CS-J610, 16 cm /6.5\" plačiajuosčiai koaksialiniai garsiakalb"
+    ]
+  },
+  "66": {
+    "size": 54,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Pakabinamas krėslas": 16,
+      "Kombinezonai": 5,
+      "Vaikų kambario spintos": 2,
+      "Piešiniai spalvinimui - spalvinimo knygelės": 2,
+      "Kita medicininė technika": 2
+    },
+    "top_sellers": {
+      "Unknown": 23,
+      "Stanley": 2,
+      "Nenurodyta": 2
+    },
+    "price_range": {
+      "min": 2.16,
+      "mean": 120.46462962962961,
+      "max": 515.37
+    },
+    "sample_products": [
+      "Geliniai šviečiantys tamsoje nagų lakai",
+      "Tamsoje šviečiantys lūpų dažai",
+      "Crayola, Inc. \"Ledo šalis\" spalvinimo knygelė su lipdukais",
+      "Aksjomat Axiom Little Mi Colors In the Country 37132",
+      "Vinilinė plokštelė The Velvet Underground – The Velvet Underground"
+    ]
+  },
+  "67": {
+    "size": 156,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Gimnastikos sienelės": 32,
+      "Bokso kriaušės ir maišai": 13,
+      "Gimnastikos ratai": 13,
+      "Kilimėliai sportui": 12,
+      "Įvairios sporto prekės": 12
+    },
+    "top_sellers": {
+      "Sportbay": 27,
+      "Insportline": 19,
+      "Sanro": 18
+    },
+    "price_range": {
+      "min": 3.65,
+      "mean": 165.76474358974357,
+      "max": 2243.55
+    },
+    "sample_products": [
+      "Stalo futbolas Neo-Sport",
+      "Berdsen Stalo futbolas Neo sport, 51x29,5x12 cm",
+      "Victoria Sport stalas Žaidimas PIŁKARZYKI 83x41,5x23,5CM JUODA ENERO PRO",
+      "Ledo ritulio stalas , 80,5 x 42 x 22 cm., Neo Sport",
+      "Lean Sport 8 in 1 žaidimų stalas"
+    ]
+  },
+  "68": {
+    "size": 204,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Lovatiesės ir pledai": 25,
+      "Lauko pertvaros": 23,
+      "Miegamojo lovos": 19,
+      "Patalynės komplektai": 12,
+      "Pagalvės": 10
+    },
+    "top_sellers": {
+      "vidaXL": 63,
+      "Nenurodyta": 21,
+      "Eurofirany": 21
+    },
+    "price_range": {
+      "min": 1.99,
+      "mean": 78.47598039215686,
+      "max": 789.99
+    },
+    "sample_products": [
+      "Vielinė tinklinė tvora su smaigais, antracito spalvos, 1,1x25m",
+      "Maxi-Cosi Kore Pro i-Size - autokėdutė ~ 15-36 kg | Autentiškas grafitas",
+      "SONAX juodos spalvos polirolis su vašku Polish&amp;Wax, 250ml",
+      "Chamaleon dažai odai juodos spalvos 400ml.",
+      "Eksterjero plastikų danga – spalvų atnaujintojas 200ml."
+    ]
+  },
+  "69": {
+    "size": 136,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Keptuvės": 11,
+      "Lovų grotelės": 7,
+      "Baseinų priedai": 7,
+      "Pripučiami žaislai": 7,
+      "Tvoros ir vartai sodui": 6
+    },
+    "top_sellers": {
+      "Unknown": 12,
+      "vidaXL": 11,
+      "Bestway": 11
+    },
+    "price_range": {
+      "min": 0.85,
+      "mean": 71.85632352941175,
+      "max": 697.0
+    },
+    "sample_products": [
+      "Dvigubi vartai su iečių viršugaliais, 400x175cm",
+      "Klipsai tvoros juostai Bradas, 19 cm, 20 vnt., ruda",
+      "Dvigubi vartai su iečių viršugaliais, 300x150cm",
+      "Bradas Tvoros juosta 19cm x 26m 1200g/m² tamsiai pilka",
+      "Dvigubi vartai su iečių viršugaliais, 400x225cm"
+    ]
+  },
+  "70": {
+    "size": 130,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Nešiojamų kompiuterių įkrovikliai": 25,
+      "Automobiliniai telefonų krovikliai": 22,
+      "Universalūs baterijų įkrovikliai": 19,
+      "Dronų priedai ir dalys": 12,
+      "Elektriniai keturračiai vaikams": 10
+    },
+    "top_sellers": {
+      "Ugreen": 13,
+      "Baseus": 12,
+      "DJI": 11
+    },
+    "price_range": {
+      "min": 1.75,
+      "mean": 50.554692307692314,
+      "max": 355.99
+    },
+    "sample_products": [
+      "Nešiojamas elektrinis oro kompresorius Xiaomi Portable Electric Air Compressor 2",
+      "Blow VW automobilio garsiakalbio adapteris",
+      "Dėžė akumuliatoriui (G24-G27-G31) NOCO HM318BKS",
+      "GYS Gnybtas (-) 054448 akumuliatoriui D35mm (sunkvežimiams)",
+      "Hertz Automobilio adapteris OBDII TO BENZ 14PIN"
+    ]
+  },
+  "71": {
+    "size": 1200,
+    "is_noise_cluster": 0,
+    "top_subcategories": {
+      "Pakabinamos lentynos": 72,
+      "Boso dienos dovanos": 40,
+      "Dovanos tėčiui": 35,
+      "Dronų priedai ir dalys": 32,
+      "Marškinėliai": 28
+    },
+    "top_sellers": {
+      "Unknown": 359,
+      "Jurek": 18,
+      "Halmar": 17
+    },
+    "price_range": {
+      "min": 0.3,
+      "mean": 121.07580000000002,
+      "max": 4309.99
+    },
+    "sample_products": [
+      "Insta360ONE X2",
+      "Dantų balinimo juostelės Wripes InnovaGoods",
+      "Veet Professional",
+      "Aklė",
+      "PAVARA GARAŽO VARTAMS FAAC-D600/KIT"
+    ]
+  },
+  "72": {
+    "size": 5875,
+    "is_noise_cluster": 1,
+    "top_subcategories": {
+      "Dviratukai-triratukai": 62,
+      "Priedai kepsninėms ir griliams": 61,
+      "Vėjarodžiai": 58,
+      "Čiužiniai": 55,
+      "Oro gaivikliai": 53
+    },
+    "top_sellers": {
+      "Unknown": 704,
+      "vidaXL": 132,
+      "Nenurodyta": 76
+    },
+    "price_range": {
+      "min": 0.14,
+      "mean": 116.84835404255318,
+      "max": 8090.0
+    },
+    "sample_products": [
+      "GOPRO HERO (2024)",
+      "DJI Osmo Action 4 veiksmo kamera / Standard Combo",
+      "GOPRO FLOATY (HERO11 Juodas MINI)",
+      "Veido ir kūno odos priežiūros priemonių rinkinys moterims Rituals Trial Sakura Set, 245 ml",
+      "Rituals The Ritual of Ayurveda Gift Set M rinkinys (125 g šveitiklis + 100 ml kremas + 200 ml dušo putos + 140 g žvakė)"
+    ]
+  }
+}

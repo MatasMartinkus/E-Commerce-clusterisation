@@ -1,0 +1,6 @@
+{
+  "adjusted_rand_score": 0.14046448398512804,
+  "adjusted_mutual_info": 0.4817159817511475,
+  "traditional_clusters": 175,
+  "transformer_clusters": 299
+}
