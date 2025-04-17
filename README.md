@@ -167,7 +167,6 @@ Our evaluation found that traditional_agglomerative provides the best balance of
 - **Top seller concentration**: 0.8086
 - **Price homogeneity**: 0.6892
 
-![Cluster Size Distribution](evaluation/charts/cluster_size_distribution.png)
 
 ### Recommendations
 
